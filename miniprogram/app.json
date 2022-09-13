@@ -1,12 +1,11 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#ffcccc",
-    "navigationBarTitleText": "张玥卿云的个人博客",
+    "navigationBarTitleText": "张玥卿云的技术博客",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",

@@ -7,6 +7,6 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "miniprogram-api-typings": "^2.8.3-1"
+    "miniprogram-api-typings": "^3.6.0"
   }
 }

@@ -1,13 +1,13 @@
 lockfileVersion: 5.4
 
 specifiers:
-  miniprogram-api-typings: ^2.8.3-1
+  miniprogram-api-typings: ^3.6.0
 
 devDependencies:
-  miniprogram-api-typings: 2.12.0
+  miniprogram-api-typings: 3.6.0
 
 packages:
 
-  /miniprogram-api-typings/2.12.0:
-    resolution: {integrity: sha512-ibvbqeslVFur0IAvTxLMvsbtvVcMo6gwvOnj0YZHV7aeDLu091VQRrETT2QuiG9P6aZWRcxeNGJChRKVPCp9VQ==}
+  /miniprogram-api-typings/3.6.0:
+    resolution: {integrity: sha512-xwK3PzhhxnfWqDfBikHLdAbj7Wy4F887nBcQrzwuF758Fw2qC4ivpKPL9t0uJZk5QYnU28+NqA7Q3lzYGMHQnA==}
     dev: true
