@@ -3,6 +3,6 @@
 
 ## 小程序二维码
 
-<p align="center" style="padding: 50px">
-    <img alt="wechat-applet" width="100px" height="100px" src="https://zblog-images.oss-cn-hangzhou.aliyuncs.com/wechat-applet.jpg">
+<p style="padding: 100px">
+    <img alt="wechat-applet" width="200px" height="200px" src="https://zblog-images.oss-cn-hangzhou.aliyuncs.com/wechat-applet.jpg">
 </p>
